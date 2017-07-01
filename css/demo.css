@@ -1,0 +1,97 @@
+.dbg{
+	width: 900px;
+	height: 40px;
+	margin:0px auto;
+	background: #000000;
+	line-height: 40px;
+}
+.dimgbox{
+	width: 100%;
+	height: 140px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	z-index: 999;
+}
+.dimgtitle{
+	height: 40px;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	background-color: pink;
+}
+.imgtitle-con{
+	width: 900px;
+	height: 40px;
+	margin:0px auto;
+	line-height: 40px;
+}
+.title1{
+	float: left;
+}
+.title1 a{
+	width: 40px;
+	display: block;
+	color: red;
+	text-align: center;
+}
+.title2{
+	float: right;
+}
+.imglist{
+	width: 900px;
+	height: 65px;
+	margin: 0px auto;
+	margin-top: 15px;
+	display: none;
+	position: relative;
+}
+.imglist img{
+	width: 100px;
+}
+.imgitem{
+	float: left;
+	margin-right: 5px
+}
+.logo{
+	position: absolute;
+	top: 41px;
+	margin-left: 539px;
+	height: 500px;
+	width: 800px;
+}
+.logo img {
+	width: 270px;
+	height: 129px;
+}
+.header{
+	position: absolute;
+	margin-top: 145px;
+	left: -135px;
+}
+.img-one{
+	width: 18px;
+	height: 16px;
+	z-index: 999;
+	position: absolute;
+	right: 120px;
+	top: 12px;
+}
+.img-one img{
+	width: 18px;
+	height: 16px;
+	background-repeat: no-repeat;
+	background-position: 0px 10px;
+}
+.input1{
+	width: 537px;
+	height: 40px;
+	border: 0px;
+	/*background: #5FDCE2 url(img/btn.png) no-repeat 0px 0px;	*/
+}
+.sub{
+	width: 104px;
+	height: 40px;
+	margin:0px;
+	border-bottom: none;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
